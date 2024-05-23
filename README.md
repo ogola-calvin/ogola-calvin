@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my new project looky.biz
 - 📫 calvintrades0@gmail.com
 - 😄 Pronouns: HIM
-- ⚡ Fun fact: I love swimming
+- ⚡ Fun fact: Kali boy
 
 <!---
 ogola-calvin/ogola-calvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
