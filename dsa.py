@@ -8,6 +8,28 @@ def binary_search(cards, target):
     #return -1
 
 
+    low = 0
+    high = len(cards) - 1  
+
+    while low <= high:
+        mid = (low + high) // 2  
+
+        if cards[mid] == target:
+            return mid  
+        elif cards[mid] < target:
+            high = mid - 1 
+        else:
+            low = mid + 1 
+
+    return -1 
+
+cards = [13, 12, 11, 10, 9, 8, 7]  
+target = 2
+result = binary_search(cards, target)
+
+print(len(cards)) 
+print(result) 
+
 
 
 
